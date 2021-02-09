@@ -1,5 +1,6 @@
 
 
+<img src="kiran%20pic.jpg" width=200>
 
 
 
